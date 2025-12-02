@@ -9,7 +9,7 @@
 | 1   | Davidson Rafael Krisman Nugroho | 412024030 |
 | 2   | Yedija Teofilus Yonathan        | 412024    |
 | 3   | Michael Tandeas                 | 412024    |
-| 4   | Janisha Jaya                    | 412024    |
+| 4   | Janisha Jaya                    | 412024033 |
 
 ---
 
@@ -186,3 +186,4 @@ glPopMatrix();
 - [ ] Error checking untuk shader
 - [ ] Buat laporan (max 2 halaman)
 - [ ] Rekam video demo (1-2 menit)
+
